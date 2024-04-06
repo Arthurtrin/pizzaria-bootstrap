@@ -1,0 +1,16 @@
+.imagens img{
+    width: 400px;
+    height: 400px;
+}
+
+#carouselExampleIndicators{
+    margin: 70px;
+}
+
+.slides img{
+    height: 700px;
+}
+
+.slides{
+    height: 700px;
+}
