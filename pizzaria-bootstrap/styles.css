@@ -1,6 +1,6 @@
 .imagens img{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
 }
 
 #carouselExampleIndicators{
@@ -13,4 +13,76 @@
 
 .slides{
     height: 700px;
+}
+
+.menu{
+    background-color: #a10202;
+}
+
+#rodape{
+    background-color: #a10202;
+}
+
+.redes{
+    padding: 10px;
+}
+
+.redes a{
+    font-size: 14px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.redes a:hover{
+    background:black;
+
+}
+
+.roda{
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 15px;
+    
+}
+
+.roda h6{
+    text-align: center;
+}
+
+.endereco{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+.patro h6{
+    padding-left: 30px;
+}
+.endereco h6, h6, h5{
+    font-size: 20px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+
+.endereco p{
+    color:white;
+}
+
+.patro ul li {
+    list-style-type: none;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.baixorodape{
+    text-align: center;
+}
+
+.ende{
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
